@@ -65,13 +65,13 @@ I'm passionate about creating modern web applications, specializing in frontend 
 
 ## 🌟 Featured Projects
 
-### 🏆 Gymster v2 (work in progress)
+### 🏆 ATS Resume Analyzer (work in progress)
 
-A modern fitness tracking application built with React, TypeScript, and Next.js. This is an enhanced version of the original unfinished Gymster project, featuring better UX, workout planning, and progress tracking capabilities.
+An AI powered web application that analyzes resumes for compatibility with Applicant Tracking Systems (ATS). Upload your CV and get instant feedback on how well it will perform in automated screening systems.
 
-<!-- -   🔗 [Live Demo](https://github.com/Patrykbarc/gymster-v2) -->
+<!-- -   🔗 [Live Demo](https://ats-scan.patrykbarc.com/) -->
 
--   💻 [Repository](https://github.com/Patrykbarc/gymster-v2)
+-   💻 [Repository](https://github.com/Patrykbarc/ats-resume-analyzer)
 
 ### 🎯 SQLter
 
