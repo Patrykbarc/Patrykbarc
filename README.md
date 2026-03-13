@@ -65,7 +65,7 @@ I'm passionate about creating modern web applications, specializing in frontend 
 
 ## 🌟 Featured Projects
 
-### 🏆 ATS Resume Analyzer (work in progress)
+### 🏆 ATS Resume Analyzer
 
 An AI powered web application that analyzes resumes for compatibility with Applicant Tracking Systems (ATS). Upload your CV and get instant feedback on how well it will perform in automated screening systems.
 
