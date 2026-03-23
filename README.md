@@ -1,7 +1,5 @@
 # 🚀 Hello!
 
-<!-- ![Banner showing coding environment](./assets/hero.png) -->
-
 <div>
 
 I'm Patryk.
@@ -24,39 +22,46 @@ I'm passionate about creating modern web applications, specializing in frontend 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Styling
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Backend & API
+### State & Data Fetching
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/-TanStack%20Router-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/-TanStack%20Table-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
-### Tools & Others
+### Testing
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Backend & API
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Design
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RWD](https://img.shields.io/badge/-RWD-3DDC84?style=for-the-badge&logo=responsive-design&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-
+![RWD](https://img.shields.io/badge/-RWD-3DDC84?style=for-the-badge&logo=responsive-design&logoColor=white)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -71,20 +76,21 @@ An AI powered web application that analyzes resumes for compatibility with Appli
 
 <!-- -   🔗 [Live Demo](https://ats-scan.patrykbarc.com/) -->
 
--   💻 [Repository](https://github.com/Patrykbarc/ats-resume-analyzer)
+- 🔗 [Live](https://ats-scan.patrykbarc.com/)
+- 💻 [Repository](https://github.com/Patrykbarc/ats-resume-analyzer)
 
 ### 🎯 SQLter
 
 A lightweight SQL template tag utility for TypeScript that safely handles SQL string interpolation and parameter binding. Zero dependencies, type-safe, and feature-rich.
 
--   💻 [Repository](https://github.com/Patrykbarc/sqlter)
+- 💻 [Repository](https://github.com/Patrykbarc/sqlter)
 
 ### 🚢 Old Sailor Barber
 
 A landing page and e-commerce platform for a barbershop, built with TypeScript and integrated with Shopify API.
 
--   🔗 [Live Demo](https://old-sailor-barber.netlify.app/)
--   💻 [Repository](https://github.com/Patrykbarc/old-sailor-ts)
+- 🔗 [Live](https://old-sailor-barber.netlify.app/)
+- 💻 [Repository](https://github.com/Patrykbarc/old-sailor-ts)
 
 ## 📫 Contact
 
