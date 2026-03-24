@@ -1,4 +1,4 @@
-# 🚀 Hello!
+# Hello!
 
 <div>
 
@@ -8,11 +8,11 @@ I'm Patryk.
 
 </div>
 
-## 🔍 About me
+## About me
 
 I'm passionate about creating modern web applications, specializing in frontend technologies. I love solving complex problems and creating intuitive user interfaces.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div>
 
@@ -68,9 +68,9 @@ I'm passionate about creating modern web applications, specializing in frontend 
 
 </div>
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🏆 ATS Resume Analyzer
+### ATS Resume Analyzer
 
 An AI powered web application that analyzes resumes for compatibility with Applicant Tracking Systems (ATS). Upload your CV and get instant feedback on how well it will perform in automated screening systems.
 
@@ -79,20 +79,20 @@ An AI powered web application that analyzes resumes for compatibility with Appli
 - 🔗 [Live](https://ats-scan.patrykbarc.com/)
 - 💻 [Repository](https://github.com/Patrykbarc/ats-resume-analyzer)
 
-### 🎯 SQLter
+### SQLter
 
 A lightweight SQL template tag utility for TypeScript that safely handles SQL string interpolation and parameter binding. Zero dependencies, type-safe, and feature-rich.
 
 - 💻 [Repository](https://github.com/Patrykbarc/sqlter)
 
-### 🚢 Old Sailor Barber
+### Old Sailor Barber
 
 A landing page and e-commerce platform for a barbershop, built with TypeScript and integrated with Shopify API.
 
 - 🔗 [Live](https://old-sailor-barber.netlify.app/)
 - 💻 [Repository](https://github.com/Patrykbarc/old-sailor-ts)
 
-## 📫 Contact
+## Contact
 
 <div>
 
