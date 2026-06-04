@@ -79,6 +79,13 @@ An AI powered web application that analyzes resumes for compatibility with Appli
 - 🔗 [Live](https://ats-scan.patrykbarc.com/)
 - 💻 [Repository](https://github.com/Patrykbarc/ats-resume-analyzer)
 
+### Zodenvy                                                                                                 
+                                                                                                              
+A TypeScript CLI that generates type-safe, Zod-validated schemas directly from your `.env` file. Provides full autocomplete, runtime validation, and keeps a `.env.template` automatically in sync for team
+  collaboration.
+  
+- 💻 [Repository](https://github.com/Patrykbarc/zodenvy)
+
 ### SQLter
 
 A lightweight SQL template tag utility for TypeScript that safely handles SQL string interpolation and parameter binding. Zero dependencies, type-safe, and feature-rich.
